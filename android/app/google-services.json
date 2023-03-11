@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309666254699",
+    "project_id": "scapi-80767",
+    "storage_bucket": "scapi-80767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309666254699:android:e044ed0829fdb1d66bc62e",
+        "android_client_info": {
+          "package_name": "com.example.new_scapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309666254699-e1ri6hvgnibp800c5haj0p2bl429dntc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZWNjoDTuIPM11LRTu_boPX1j362zOECQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309666254699-e1ri6hvgnibp800c5haj0p2bl429dntc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
